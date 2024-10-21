@@ -1,0 +1,51 @@
+.home,body{
+    background-color: aquamarine;
+}
+.protest-strike-regular {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 50px;
+  }
+  .protest-strike-regular-inst {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: red;
+    font-size: xx-large;
+  }
+  .region{
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 3px solid white;
+  }
+  .protest-strike-regular-options {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .name{
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 3px solid white;
+  }
+  .input-name{
+    background-color: rgb(62, 60, 58);
+    color: rgb(255, 255, 255);
+    border-radius:10px ;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  .btn-primary{
+    font-size: xx-large;
+    margin-top: 10px;
+  }
+
+  .protest-strike-regular-submit {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }

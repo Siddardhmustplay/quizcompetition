@@ -1,0 +1,52 @@
+.home, body {
+    background-color: aquamarine;
+}
+
+.protest-strike-regular {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.question {
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 100%;
+    padding: 20px; /* Increased padding for better spacing */
+    margin-top: 20px; /* Added margin for separation from the header */
+}
+.form-select {
+    margin-top: 10px; /* Space above the dropdown */
+    width: 100%; /* Full width */
+}
+
+
+.progress {
+    background-color: lightgray; /* Background color for the progress bar */
+    border-radius: 5px; /* Rounded corners for the progress bar */
+    height: 30px; /* Height of the progress bar */
+    margin-bottom: 20px; /* Space below the progress bar */
+}
+
+.progress-bar {
+    height: 100%; /* Full height of the progress bar */
+    border-radius: 5px; /* Rounded corners for the progress fill */
+    transition: width 0.5s; /* Smooth transition for the width */
+    color: white; /* Text color inside the progress bar */
+    text-align: center; /* Center text inside the progress bar */
+}
+
+.btn {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white; /* Text color for the buttons */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners for buttons */
+    padding: 10px 20px; /* Padding for buttons */
+    font-size: 16px; /* Font size for buttons */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
+}

@@ -1,0 +1,32 @@
+.home,body{
+    background-color: aquamarine;
+}
+
+.protest-strike-regular-head {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: auto;
+    padding: 20px 10px;
+  }
+  .frnd-png{
+    margin: auto;
+    width: 100%;
+    overflow: visible;
+  }
+  .btn-start {
+    width: 50%;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    font-size: xx-large;
+
+    padding: 0px; /* Add padding for button text */
+  }
+  
+  .protest-strike-regular-BTN{
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
